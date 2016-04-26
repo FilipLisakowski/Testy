@@ -53,7 +53,7 @@ public class PagesSteps {
     
     @Then("Error is shown")
     public void errorIsShown(){
-       assertEquals("Logowanie nie powiod≥o siÍ. Sprawdü ponownie wpisywane has≥o.", pages.login().messageCheck());
+       assertEquals("Logowanie nie powiod≈Ço siƒô. Sprawd≈∫ ponownie wpisywane has≈Ço.", pages.login().messageCheck());
     }	
     
     @When("user log in with good arguments")
@@ -83,7 +83,7 @@ public class PagesSteps {
     
     @Then("user is logged out")
     public void userLogOutCheck(){
-        assertEquals("Wylogowano. Zapraszamy kiedyú ponownie.", pages.login().messageCheck());
+        assertEquals("Wylogowano. Zapraszamy kiedy≈õ ponownie.", pages.login().messageCheck());
     }	
     
 
