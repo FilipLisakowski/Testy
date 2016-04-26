@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+target/
+
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+
+# sbteclipse plugin
+.target
+
+
+# Code Recommenders
+.recommenders/
+=======
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+target/
+
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+
+# sbteclipse plugin
+.target
+
+
+# Code Recommenders
+.recommenders/
+>>>>>>> f7dcf65f42ffb975d5a815e390363aefd0a94640
+/target/
